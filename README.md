@@ -111,6 +111,13 @@ It includes things like
 1. [Flutter themes](https://www.youtube.com/watch?v=ju1fr9C4g4U)
 2. [Themes in Flutter](https://link.medium.com/a3uq9f6bN6)
 
+### Google Maps + Flutter:
+
+1. [Add Custom Marker Images to your Google Maps in Flutter](https://medium.com/flutter-community/ad-custom-marker-images-for-your-google-maps-in-flutter-68ce627107fc)
+2. [Drawing Route Lines on Google Maps Between Two Locations in Flutter](https://medium.com/flutter-community/drawing-route-lines-on-google-maps-between-two-locations-in-flutter-4d351733ccbe)
+3. [Add A Custom Info Window to your Google Map Pins in Flutter](https://medium.com/flutter-community/add-a-custom-info-window-to-your-google-map-pins-in-flutter-2e96fdca211a)
+4. [Implement Real-time Location Updates on Google Maps in your Flutter Apps](https://medium.com/flutter-community/implement-real-time-location-updates-on-google-maps-in-flutter-235c8a09173e)
+
 ### Flavours
 
 1. [Flavors in Flutter](https://medium.com/@salvatoregiordanoo/flavoring-flutter-392aaa875f36)
