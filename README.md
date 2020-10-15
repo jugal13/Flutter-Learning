@@ -14,6 +14,7 @@
 10. [Number Converter](https://codepen.io/jugal13/pen/QWygPQE)
 11. [Temperature Converter](https://codepen.io/jugal13/pen/bGErROz)
 12. [To Do List](https://codepen.io/jugal13/pen/ExPbJJW)
+13. [Rock Paper Scissors](https://codepen.io/jugal13/pen/vYLqgar)
 
 ## Install Flutter
 
@@ -66,6 +67,7 @@ This tutorial is the first app tutorial written on flutter documentation
 1. [Layouts](https://flutter.dev/docs/development/ui/layout/tutorial)
 2. [Flutter Layout Cheat Sheet](https://link.medium.com/Wsz9iYIVh2)
 3. [Interactivity in Flutter](https://flutter.dev/docs/development/ui/interactive)
+4. [Flutter: The Advanced Layout Rule Event Beginners Must Know](https://link.medium.com/woB5OLwYP9)
 
 ### Navigation
 
@@ -164,3 +166,4 @@ It includes things like
 4. [How to Unit Test in Flutter](https://www.filledstacks.com/post/how-to-unit-test-in-flutter/)
 5. [How to Mock for Unit Testing](https://www.filledstacks.com/post/how-to-mock-for-unit-testing/)
 6. [Bottom App Bar using Stacked](https://www.filledstacks.com/post/bottom-navigation-with-stacked-architecture/)
+7. [Flutter Theme Manager for Multiple Themes](https://www.filledstacks.com/post/multiple-themes-in-flutter-dark-and-light-theme-flutter-stacked/)
