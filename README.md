@@ -15,6 +15,8 @@
 11. [Temperature Converter](https://codepen.io/jugal13/pen/bGErROz)
 12. [To Do List](https://codepen.io/jugal13/pen/ExPbJJW)
 13. [Rock Paper Scissors](https://codepen.io/jugal13/pen/vYLqgar)
+14. [Calculator](https://codepen.io/jugal13/pen/yLamvVE)
+15. [Tic Tac Toe](https://codepen.io/jugal13/pen/KKNKvzP)
 
 ## Install Flutter
 
@@ -167,3 +169,15 @@ It includes things like
 5. [How to Mock for Unit Testing](https://www.filledstacks.com/post/how-to-mock-for-unit-testing/)
 6. [Bottom App Bar using Stacked](https://www.filledstacks.com/post/bottom-navigation-with-stacked-architecture/)
 7. [Flutter Theme Manager for Multiple Themes](https://www.filledstacks.com/post/multiple-themes-in-flutter-dark-and-light-theme-flutter-stacked/)
+8. [SQLite in Flutter](https://www.filledstacks.com/post/sq-lite-in-flutter/)
+9. [BottomSheet using Stacked Services](https://www.filledstacks.com/post/bottom-sheets-in-flutter-through-stacked-services/)
+10. [Stacked Setup - new Stacked Generator](https://www.filledstacks.com/post/new-setup-for-flutter-stacked-state-management/)
+11. [Building Login Forms](https://www.filledstacks.com/post/building-flutter-login-and-sign-up-forms/)
+12. [Sign in with Google & Apple](https://www.filledstacks.com/post/sign-in-with-google-or-apple-sign-in-using-flutter/)
+14. [Handling User Profile](https://www.filledstacks.com/post/handle-users-profile-in-flutter/)
+15. [Unit Testing](https://www.filledstacks.com/post/practical-guide-to-unit-testing-in-flutter/)
+16. [Google Places Autocomplete](https://www.filledstacks.com/post/easy-google-places-in-flutter-tutorial/)
+17. [Building Design System](https://www.filledstacks.com/post/building-a-design-system-in-flutter/)
+18. [Setup Firebase Emulator with Faker.js](https://www.filledstacks.com/post/setting-up-firebase-emulator-data-with-faker/)
+19. [Setup Firebase Emulator with Flutter](https://www.filledstacks.com/post/how-to-setup-firebase-emulator-with-flutter/)
+20. [Planning Product Development](https://www.filledstacks.com/post/how-to-plan-for-product-development/)
